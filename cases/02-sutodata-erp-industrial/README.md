@@ -18,6 +18,10 @@ Numa fábrica, quem decide precisa ver o mesmo número que quem opera: o que foi
 
 ## O que eu decidi
 
+> As telas abaixo usam **dados fictícios** (empresa, pessoas e números inventados).
+
+![Dashboard do dia](imagens/02-dashboard.png)
+
 ### 1. Um painel para cada perfil, em vez de um sistema único para todos
 
 Cada perfil enxerga só o que precisa para o seu trabalho:
@@ -51,6 +55,10 @@ flowchart LR
     C --> E["Dashboard executivo"]
 ```
 
+![Lançamento diário de produção](imagens/03-lancamento-diario.png)
+
+![Ranking do mês (prévia)](imagens/04-ranking.png)
+
 A separação entre **prévia** e **oficial** foi uma decisão de produto: o colaborador acompanha como está indo, mas a decisão de bonificação só vale depois do fechamento.
 
 ### 3. Qualidade e pessoas no mesmo lugar
@@ -59,9 +67,15 @@ A separação entre **prévia** e **oficial** foi uma decisão de produto: o col
 - **Gestão de pessoas**: status do colaborador (ativo, férias, afastado, desligado), frequência e faltas, feedbacks e tarefas
 - **Quadro kanban de ideias de melhoria**, para a fábrica registrar sugestões e acompanhar o que foi feito
 
+![Gestão de pessoas](imagens/05-gestao-de-pessoas.png)
+
+![Histórico de avarias](imagens/06-avarias-historico.png)
+
 ### 4. Dashboard executivo para quem decide
 
 Uma tela com os números do mês: produção, taxa de avarias contra o limite, eficiência média, colaboradores ativos, aptos à bonificação, faltas injustificadas, principais motivos de avaria e a tendência diária da produção.
+
+![Painel executivo](imagens/07-painel-executivo.png)
 
 ### 5. Escopo enxuto, mas preparado para crescer
 
