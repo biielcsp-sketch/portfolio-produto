@@ -91,6 +91,26 @@ Além da administradora e da líder, a evolução do produto mostrou a necessida
 
 O banco tem políticas de acesso por linha, e as migrações incluem **limitação de tentativas de login, registro de auditoria de autenticação, revogação de sessões** e a correção de uma falha de escalonamento de privilégio de perfil. Como o sistema lida com dados pessoais de participantes, tratei isso como requisito, e não como detalhe técnico.
 
+## As telas, desenhadas no Figma
+
+Desenhei o fluxo de inscrição e acesso no Figma antes de implementar. Os dados das telas são fictícios.
+
+**Três jeitos de chegar ao mesmo formulário.** A pessoa pode chegar pela página de inscrição do site, pelo QR Code do evento ou pelo link que a líder manda no WhatsApp. Os três terminam na mesma tela de inscrição.
+
+![Três entradas para a inscrição](imagens/01-tres-entradas-para-a-inscricao.png)
+
+**Telas públicas, da inscrição ao acesso.** Inscrição em 2 passos (dados e depois acesso), confirmação de e-mail, entrada pelo convite da líder, confirmação de dados quando a pessoa já tem ficha e definição de senha pelo convite da equipe. Também desenhei os casos de erro, como o link vencido ou já usado.
+
+![Telas públicas: inscrição e acesso](imagens/02-telas-publicas-inscricao-e-acesso.png)
+
+**Telas da equipe.** A líder tem um link de convite próprio, a ficha da participante mostra se ela está sem acesso, com convite enviado ou com acesso ativo, e uma tela de envios mostra as mensagens que falharam, as pendentes e as enviadas, com opção de reenviar.
+
+![Telas da equipe](imagens/03-telas-da-equipe-convite-ficha-e-envios.png)
+
+**Mapa de todas as telas por perfil.** Marquei o que é tela nova, o que muda com o novo cadastro e o que fica para depois.
+
+![Mapa do app por perfil](imagens/04-mapa-do-app-por-perfil.png)
+
 ## Aprender com o uso
 
 O feedback de uma líder virou melhoria concreta:
