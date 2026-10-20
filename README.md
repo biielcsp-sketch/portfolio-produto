@@ -3,6 +3,8 @@
 **Product Manager | Produtos Digitais | IA aplicada**
 Barueri – SP · [LinkedIn](https://www.linkedin.com/in/gabriel-oliveira-rodrigues-cpa) · gabriel.rdg2307@gmail.com
 
+📄 [Baixar currículo (PDF)](curriculo-gabriel-oliveira-rodrigues.pdf)
+
 Construo produtos digitais da descoberta à entrega: entendo o problema na operação, defino o MVP, escrevo as regras de negócio e os perfis de acesso, priorizo o backlog e acompanho a implementação até a produção. O desenvolvimento é feito com apoio de inteligência artificial, sob a minha direção.
 
 Tenho 10 anos de indústria farmacêutica e química, e isso muda a forma como faço produto: o primeiro projeto abaixo nasceu de um problema que vivi de perto, na minha rotina de armazém.
