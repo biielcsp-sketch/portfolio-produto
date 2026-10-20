@@ -1,11 +1,11 @@
 # Voluntários Lagoinha
 
-**De um app para um ministério a uma plataforma para dezenas de ministérios.**
+**Do app da Consolidação, que construí do zero, a uma plataforma para dezenas de ministérios.**
 
 | | |
 |---|---|
 | **Contexto** | Igreja Lagoinha Alphaville |
-| **Meu papel** | Product owner: modelo de produto, hierarquia de acesso, regras, fluxos e documentação para o desenvolvedor responsável pelo deploy. Desenvolvimento com apoio de IA, sob minha direção |
+| **Meu papel** | Construí do zero o app da Consolidação e conduzi sua expansão para a plataforma de voluntários. Product owner: modelo de produto, hierarquia de acesso, regras, fluxos e documentação para o desenvolvedor responsável pelo deploy. Desenvolvimento com apoio de IA, sob minha direção |
 | **Usuários** | Voluntários, líderes de culto, líderes de ministério, pastores e administradores |
 | **Plataforma** | PWA, otimizado para celular, com modo tablet |
 | **Stack** | Supabase, com ambiente de teste separado da produção |
@@ -14,7 +14,7 @@
 
 ## O problema
 
-O app da **Consolidação** (ministério que acolhe e acompanha pessoas novas) funcionava bem para um ministério. Os outros ministérios da igreja, mais de 40 no total, precisavam de algo parecido: saber quem serve, quem foi escalado e quem apareceu.
+Eu construí do zero o app da **Consolidação** (ministério que acolhe e acompanha pessoas novas), e ele funcionava bem para um ministério. Os outros ministérios da igreja, mais de 40 no total, precisavam de algo parecido: saber quem serve, quem foi escalado e quem apareceu.
 
 A pergunta de produto foi: **copiar o app para cada ministério ou transformá-lo numa plataforma?**
 
