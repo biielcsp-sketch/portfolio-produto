@@ -27,7 +27,7 @@ Descrevo perfis de acesso, jornadas, regras de negócio, alertas, critérios de 
 
 ## 4. Construção: IA sob direção
 
-Eu não escrevo o código: **dirijo o desenvolvimento com IA**. Divido o pedido em tarefas, delego a agentes especializados (front-end, banco de dados e revisão) e defino o que é "pronto". A responsabilidade pelo produto, pelas decisões e pela qualidade é minha.
+Eu não escrevo o código: **dirijo o desenvolvimento com IA**. Divido o pedido em tarefas, delego a agentes especializados (front-end, banco de dados e revisão) e defino o que é "pronto". A responsabilidade pelo produto, pelas decisões e pela qualidade é minha. O detalhamento do método, com papéis, regras, casos reais e falhas, está em [Modelo operacional: desenvolver com IA sob direção](modelo-operacional-ia.md).
 
 ## 5. Qualidade: regras explícitas
 

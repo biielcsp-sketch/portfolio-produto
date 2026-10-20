@@ -79,6 +79,8 @@ Defini um fluxo de trabalho para o desenvolvimento com IA, com regras de qualida
 - **Simulação (dry run)** antes de mudanças estruturais, como alterar tabelas ou permissões
 - **Plano de rollback** pronto antes de mexer em produção
 
+O método completo, com papéis, casos reais e falhas, está em [Modelo operacional: desenvolver com IA sob direção](../../modelo-operacional-ia.md).
+
 ## Aprendizados
 
 - **Regra de negócio que gera consequência para a pessoa precisa de um estado "oficial".** A prévia dá transparência, e o fechamento dá segurança.
